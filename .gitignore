@@ -1,0 +1,4 @@
+docking_workspace/
+*.pdb
+*.npy
+*.pt
